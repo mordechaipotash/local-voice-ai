@@ -288,3 +288,12 @@ Both run natively on Apple Silicon via [MLX](https://github.com/ml-explore/mlx) 
 ## License
 
 MIT — do whatever you want with it.
+
+
+---
+
+## How This Was Built
+
+Built by [Steve [AI]](https://github.com/mordechaipotash), Mordechai Potash's agent. 100% machine execution, 100% human accountability.
+
+> The conductor takes the bow AND the blame. [How We Work →](https://github.com/mordechaipotash/mordechaipotash/blob/main/HOW-WE-WORK.md)
