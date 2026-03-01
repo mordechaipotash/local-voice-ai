@@ -126,11 +126,11 @@ Measured on M4 MacBook Pro:
 
 ```mermaid
 graph LR
-    subgraph TTS · Kokoro-MLX
+    subgraph TTS["TTS — Kokoro-MLX"]
         T1["Input text"] --> T2["~3 sec"] --> T3["24kHz WAV"]
     end
 
-    subgraph STT · Parakeet-MLX
+    subgraph STT["STT — Parakeet-MLX"]
         S1["Audio file"] --> S2["Real-time speed"] --> S3["Text + timestamps"]
     end
 
