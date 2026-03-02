@@ -2,7 +2,9 @@
 
 **Local voice AI for Apple Silicon — TTS + STT, no cloud, no API keys.**
 
-<video src="https://github.com/mordechaipotash/local-voice-ai/raw/main/assets/demo.mp4" width="100%" autoplay loop muted playsinline></video>
+[![Watch the demo](assets/thumbnail.png)](https://github.com/mordechaipotash/local-voice-ai/raw/main/assets/demo.mp4)
+
+> 🎬 *Click to watch the demo video (local-voice-ai)*
 
 ---
 
